@@ -1,0 +1,60 @@
+.gallery{
+
+float: center;
+width: auto;
+
+
+margin: 25px 25px 25px;
+
+}
+
+.gallery_img{
+
+width: 100%;
+height: auto;
+padding: 5cm;
+border-radius: 8px;
+
+
+}
+
+.desc{
+margin: 25px 25px 25px;
+padding: 25px;
+text-align: center;
+font-size: 15cm;
+width: 800px;
+height: 600px;
+
+}
+.desc:hover{
+
+    background-color: blueviolet;
+}
+
+div.gallery:hover{
+
+    border: 1px solid #777;
+}
+
+.img{
+    border-radius: 8px;
+
+}
+
+.spaceClass{
+
+    margin-top: 10cm;
+}
+.table{
+
+    margin-right: 500px;
+    margin-left: 500px;
+}
+
+.navigation{
+position: sticky;
+top: 0;
+z-index: 100;
+
+}

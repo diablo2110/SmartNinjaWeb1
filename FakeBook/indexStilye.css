@@ -1,0 +1,103 @@
+h1{
+
+color: #a11f1f;
+font-size: 35px;
+
+
+}
+
+body{
+
+    background-color:#EFFFFD
+}
+h2 {
+
+color: rgb(22, 7, 241);
+
+}
+h3{
+    color: black;
+}
+h4{
+
+    color: rgb(7, 2, 24);
+}
+hr{
+    border-top: 10px dashed red;
+    width: 50%;
+    border-bottom: 10px dashed green;
+    color: blueviolet;
+    
+
+}
+
+image:hover{
+
+    background-color: goldenrod;
+}
+.like:hover{
+background-color: gold;
+
+}
+.like{
+    font-style: italic;
+    
+    background-color: rgb(0, 255, 34);
+}
+.comment:hover{
+    background-color: greenyellow;
+}
+.comment{
+    background-color: gold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.share:hover{
+    background-color: aqua;
+}
+
+.share{
+    font-family:  Helvetica;
+    background-color: brown;
+}
+
+.fontColor{
+
+font-family: 'Franklin Gothic Medium';
+padding: 5px;
+font-style: oblique;
+
+}
+
+a:visited
+{
+    color: rgb(230, 78, 7);
+    
+}
+a:hover{
+    color: rgb(77, 3, 52);
+}
+a:active{
+    color: rgb(255, 0, 170);
+}
+
+
+.btnHover:hover
+{
+    color: crimson;
+}
+.btnSend{
+
+    color: aqua;
+    font-style: italic;
+}
+
+.homeImg{
+
+    
+    display: block;
+    width: 20px;
+    height: 20px;
+    margin-bottom: 25px;
+    margin-left: 5px;
+}
