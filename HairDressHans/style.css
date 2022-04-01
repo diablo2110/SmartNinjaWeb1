@@ -1,0 +1,36 @@
+.centar{
+
+    text-align: center;
+}
+
+.prored
+{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+}
+a{
+    text-decoration: none;
+}
+
+.hans{
+    font-family: 'Lobster', cursive;
+
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.slike{
+    font-family: 'Lobster', cursive;
+
+    font-family: 'Ubuntu', sans-serif;
+}
+ h3{
+    font-family: 'Lobster', cursive;
+
+    font-family: 'Ubuntu', sans-serif;
+}
+h2{
+    font-family: 'Lobster', cursive;
+
+    font-family: 'Ubuntu', sans-serif;
+}
